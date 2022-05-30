@@ -11,17 +11,6 @@ The major objectives of this project are:
 
 
 
-## Authors
-
-- [@Sameer sahu](https://github.com/sks1101)
-- [@Vedank Rastogi](https://github.com/vedankrastogi)
-- [@Umang Mittal](https://github.com/vedankrastogi)
-- [@Tanuruddh Singh](https://github.com/vedankrastogi)
-- [@Veenamra Raj](https://github.com/vedankrastogi)
-
-
-
-
 
 
 
